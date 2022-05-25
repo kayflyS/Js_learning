@@ -37,7 +37,9 @@ var toDo = [
     "study javascript",
     "eat healthy",
 ]
-for (let i = 0; i < toDo.length; i++) {
-    console.log(toDo[i]);
-    
+
+var counterOne = 0;
+while(counterOne < 10 ){
+    console.log(counterOne);
+    counterOne++
 }
