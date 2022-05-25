@@ -30,16 +30,16 @@
 // signIn(userNamePrompt,passwordPrompt);
 //looping
 
-var toDo = [
-    "clean room",
-    "brush teeth",
-    "exercise",
-    "study javascript",
-    "eat healthy",
-]
+// var toDo = [
+//     "clean room",
+//     "brush teeth",
+//     "exercise",
+//     "study javascript",
+//     "eat healthy",
+// ]
 
-var counterOne = 0;
-while(counterOne < 10 ){
-    console.log(counterOne);
-    counterOne++
-}
+// var counterOne = 0;
+// while(counterOne < 10 ){
+//     console.log(counterOne);
+//     counterOne++
+// }
