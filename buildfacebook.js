@@ -38,6 +38,6 @@ var toDo = [
     "eat healthy",
 ]
 for (let i = 0; i < toDo.length; i++) {
-    console.log(i);
+    console.log(toDo[i]);
     
 }
